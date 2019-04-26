@@ -1,0 +1,7 @@
+进入商店前端页面：
+http://localhost:8080/o2o/frontend/index
+
+进入店家管理页面对商店、商品进行管理：
+http://localhost:8080/o2o/shopadmin/shoplist
+
+有两个系统
